@@ -1,0 +1,14 @@
+# Віртуальне оточення
+venv/
+.venv/
+
+# Налаштування PyCharm та Jupyter
+.idea/
+.ipynb_checkpoints/
+
+# Кеш Python
+__pycache__/
+*.pyc
+
+# повний датасет
+Data/credit risk dataset.csv
